@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667169308 source:c:\users\dell\documents\codeblocks\juego\main.cpp
+	<iostream>
+	<allegro.h>
+
